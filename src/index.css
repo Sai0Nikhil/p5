@@ -1,0 +1,15 @@
+html,body {
+  margin: 0;
+  height: 100%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 10pt;
+  background: black;
+  color: aliceblue;
+}
+#root {
+  height: 100%;
+
+}
+:focus{
+  outline: none;
+}
